@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@types/morgan": "^1.7.37",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
     "winston": "^3.2.1",
